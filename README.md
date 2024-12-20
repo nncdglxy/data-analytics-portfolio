@@ -1,7 +1,7 @@
 # data-analytics-portfolio
 
-## Wokout Wednesday | Tableau     
-(https://workout-wednesday.com/)
+## [Wokout Wednesday]((https://workout-wednesday.com/)) | Tableau     
+
 Challenge | My solution                     
 --- | ---                                 
 Week 51 | link to dashboard                 
