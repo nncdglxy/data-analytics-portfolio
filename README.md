@@ -28,9 +28,8 @@ Week 46 |
 (https://www.thetableaustudentguide.com/vizbasics)
 Challenge | Description | My solution                     
 --- | ---                                 
-#2021 Teaser | Build your best bar chart | [My Solution] (https://public.tableau.com/views/B2VB-2021-Teaser/B2VB2021Teaser?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)                
-Week 50 |   [I'm an inline-style link](https://www.google.com)                                 
-We49 |
+#2021 Teaser | Build your best bar chart | [My Solution](https://public.tableau.com/views/B2VB-2021-Teaser/B2VB2021Teaser?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)       Week 50 |                                 
+Week 49 |
 Week 48 |
 Week 47 |
 
