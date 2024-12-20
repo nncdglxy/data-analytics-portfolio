@@ -1,10 +1,10 @@
 # data-analytics-portfolio
 
-## [Wokout Wednesday]((https://workout-wednesday.com/)) | Tableau     
+## [Wokout Wednesday](https://workout-wednesday.com/) | Tableau     
 
-Challenge | My solution                     
---- | ---                                 
-Week 51 | link to dashboard                 
+Challenge | Prompt | My solution                     
+--- | --- | ---                                 
+2024 - Week 51 | [Prompt1](link to task) | [My Solution](link to dashboard)                 
 Week 50 |                                    
 Week 49 |
 Week 48 |
