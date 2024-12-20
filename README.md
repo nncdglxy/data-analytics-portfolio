@@ -28,9 +28,9 @@ Week 46 |
 (https://www.thetableaustudentguide.com/vizbasics)
 Challenge | My solution                     
 --- | ---                                 
-Week 51 | link to dashboard                 
+#2021 Teaser | (https://www.thetableaustudentguide.com/vizbasics)                
 Week 50 |                                    
-Week 49 |
+We49 |
 Week 48 |
 Week 47 |
 
