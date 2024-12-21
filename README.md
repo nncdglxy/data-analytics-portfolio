@@ -4,7 +4,7 @@
 
 Challenge | Prompt | My solution                     
 --- | --- | ---                                 
-2024 - Week 51 | [Prompt1](link to task) | [My Solution](link to dashboard)                 
+2024 - Week 51 | [Prompt](https://workout-wednesday.com/2024w51tab/) | [My Solution](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
 Week 50 |                                    
 Week 49 |
 Week 48 |
