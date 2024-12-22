@@ -1,6 +1,6 @@
 # data-analytics-portfolio
 
-## [Wokout Wednesday](https://workout-wednesday.com/) | Tableau     
+## [Workout Wednesday](https://workout-wednesday.com/) | Tableau     
 
 Challenge | Prompt | My solution                     
 --- | --- | ---                                 
