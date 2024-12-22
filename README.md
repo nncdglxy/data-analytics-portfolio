@@ -13,7 +13,7 @@ Week 47 |
 
 
     
-## Wokout Wednesday | Power BI             
+## Workout Wednesday | Power BI             
 Challenge | My solution                     
 --- | ---                                 
 Week 51 | link to dashboard                 
