@@ -9,10 +9,7 @@ Week 50 |
 Week 49 |
 Week 48 |
 Week 47 |
- |  
-
-
-    
+=============================================================================================================
 ## Workout Wednesday | Power BI             
 Challenge | My solution                     
 --- | ---                                 
@@ -22,11 +19,7 @@ Week 49 |
 Week 48 |
 Week 47 |
 Week 46 |   
-
-
-
-
-
+====================================================================================================
 ## [Back 2 Viz Basics](https://www.thetableaustudentguide.com/vizbasics) | Tableau              
 Challenge | Task Prompt | My solution                     
 --- | --- | ---                             
