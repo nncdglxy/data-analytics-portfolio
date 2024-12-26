@@ -5,6 +5,7 @@
 Challenge | Prompt | My solution                     
 --- | --- | ---                                 
 2024 - Week 51 | [Prompt](https://workout-wednesday.com/2024w51tab/) | [My Solution](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
+2024 - Week 52 | [Prompt](https://workout-wednesday.com/2024w52tab/) | [My Solution]
 
 
 ## Workout Wednesday | Power BI             
