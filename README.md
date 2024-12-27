@@ -5,7 +5,7 @@
 Challenge | Prompt | My solution                     
 --- | --- | ---                                 
 #WOW2024 - Week 51 | [Filter for One Value OR All Others](https://workout-wednesday.com/2024w51tab/) | [My Solution](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
-#WOW2024 - Week 52 | [Can you create a Stem and Leaf Plots?](https://workout-wednesday.com/2024w52tab/) | [My Solution]
+#WOW2024 - Week 52 | [Can you create a Stem and Leaf Plots?](https://workout-wednesday.com/2024w52tab/) | [My Solution](https://public.tableau.com/views/WOW2024-Week52-CreateStemAnd-Leaf-Plot/StemandLeafDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
         
 ## [Back 2 Viz Basics](https://www.thetableaustudentguide.com/vizbasics) | Tableau              
 Challenge | Task Prompt | My solution                     
