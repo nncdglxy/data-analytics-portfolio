@@ -1,12 +1,6 @@
-# data-analytics-portfolio
+                                                                                
+# Data Analytics - Tableau Portfolio
 
-## [Workout Wednesday | #WOW](https://workout-wednesday.com/) | Tableau     
-Year | Challenge | Prompt | My solution                     
---- | --- | --- | ---                                 
-2024 | #WOW2024 - Week 51 | [Filter for One Value OR All Others](https://workout-wednesday.com/2024w51tab/) | [My Solution](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
-2024 | #WOW2024 - Week 52 | [Can you create a Stem and Leaf Plots?](https://workout-wednesday.com/2024w52tab/) | [My Solution](https://public.tableau.com/views/WOW2024-Week52-CreateStemAnd-Leaf-Plot/StemandLeafDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-2025 | #WOW2025 - Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) | [TODO]
-        
 ## [Back 2 Viz Basics |  #B2VB](https://www.thetableaustudentguide.com/vizbasics) | Tableau              
 Year | Challenge | Task Prompt | My solution                     
 --- | --- | --- | ---                             
@@ -15,7 +9,16 @@ Year | Challenge | Task Prompt | My solution
 2022 | #B2VB2022 - Week 2 |
 2022 | #B2VB2022 -  Week 3 | [Build Your Best Text Table](https://data.world/back2vizbasics/2022week-3-build-your-best-text-table) | [TODO]
 2022 | #B2VB2022 -  Week 4 |[Design Some KPIs](https://data.world/back2vizbasics/2022week-4-design-some-kpis) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week4-Design-Some-KPIs-Basic/B2VB-2022-Week4-Design-KPIs-Trial?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-2022 | #B2VB2022 -  Week 5 | [Use Color Purposefully](https://data.world/back2vizbasics/2022week-5-use-color-purposefully) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week5-UseColorsPurposefully/B2VB-2022-Week5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link)  
+2022 | #B2VB2022 -  Week 5 | [Use Color Purposefully](https://data.world/back2vizbasics/2022week-5-use-color-purposefully) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week5-UseColorsPurposefully/B2VB-2022-Week5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
+
+
+## [Workout Wednesday | #WOW](https://workout-wednesday.com/) | Tableau     
+Year | Challenge | Prompt | My solution                     
+--- | --- | --- | ---                                 
+2024 | #WOW2024 - Week 51 | [Filter for One Value OR All Others](https://workout-wednesday.com/2024w51tab/) | [My Solution](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
+2024 | #WOW2024 - Week 52 | [Can you create a Stem and Leaf Plots?](https://workout-wednesday.com/2024w52tab/) | [My Solution](https://public.tableau.com/views/WOW2024-Week52-CreateStemAnd-Leaf-Plot/StemandLeafDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+2025 | #WOW2025 - Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) | [TODO]
+        
 
 ## [Makeover Monday | #MOM](https://makeovermonday.co.uk/) | Tableau 
 Year | Challenge | Prompt | My solution                     
