@@ -18,6 +18,7 @@ Year | Challenge | Prompt | My solution
 2024 | #WOW2024 - Week 51 | [Filter for One Value OR All Others](https://workout-wednesday.com/2024w51tab/) | [My Solution](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
 2024 | #WOW2024 - Week 52 | [Can you create a Stem and Leaf Plots?](https://workout-wednesday.com/2024w52tab/) | [My Solution](https://public.tableau.com/views/WOW2024-Week52-CreateStemAnd-Leaf-Plot/StemandLeafDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2025 | #WOW2025 - Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) | [TODO]
+2025 | #WOW2025 - Week 2 | [Link] | [TODO] | [How-To-Guide]
         
 
 ## [Makeover Monday | #MOM](https://makeovermonday.co.uk/) | Tableau 
