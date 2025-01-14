@@ -1,7 +1,7 @@
                                                                                 
 # Data Analytics Portfolio
 
-## Tableau
+## <img src="https://github.com/user-attachments/assets/be8c3127-f671-4cb4-9a11-a930e63ddadc" width="150" /> 
 
 ## [Back 2 Viz Basics |  #B2VB](https://www.thetableaustudentguide.com/vizbasics) | Tableau              
 Year | Challenge | Task Prompt | My solution                     
@@ -28,7 +28,7 @@ Year | Challenge | Prompt | My solution
 2025 | #MOM2025 - Week 1 | [Historical prices of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage) | [TODO]
 
 ================================================================================
-## Power BI
+## <img src="https://github.com/user-attachments/assets/cc270570-5a51-438d-b1ad-5fb1cb6afc94" width="75" />
 ## [Workout Wednesday |  #WOW](https://www.thetableaustudentguide.com/vizbasics) | Power BI              
 Year | Challenge | Task Prompt | My solution                     
 --- | --- | --- | ---                             
