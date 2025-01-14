@@ -1,5 +1,7 @@
                                                                                 
-# Data Analytics - Tableau Portfolio
+# Data Analytics Portfolio
+
+## Tableau
 
 ## [Back 2 Viz Basics |  #B2VB](https://www.thetableaustudentguide.com/vizbasics) | Tableau              
 Year | Challenge | Task Prompt | My solution                     
@@ -11,7 +13,6 @@ Year | Challenge | Task Prompt | My solution
 2022 | #B2VB2022 -  Week 4 |[Design Some KPIs](https://data.world/back2vizbasics/2022week-4-design-some-kpis) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week4-Design-Some-KPIs-Basic/B2VB-2022-Week4-Design-KPIs-Trial?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2022 | #B2VB2022 -  Week 5 | [Use Color Purposefully](https://data.world/back2vizbasics/2022week-5-use-color-purposefully) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week5-UseColorsPurposefully/B2VB-2022-Week5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
 
-
 ## [Workout Wednesday | #WOW](https://workout-wednesday.com/) | Tableau     
 Year | Challenge | Prompt | My solution                     
 --- | --- | --- | ---                                 
@@ -20,9 +21,15 @@ Year | Challenge | Prompt | My solution
 2025 | #WOW2025 - Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) | [TODO]
 2025 | #WOW2025 - Week 2 | [Visualizing Ranges](https://workout-wednesday.com/2025w2tab/) | [My Solution](https://public.tableau.com/views/WOW2025Week2-VisualizingRanges_17368406640380/WOW2025Week2VisualizingRanges?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [How-To-Guide]
         
-
 ## [Makeover Monday | #MOM](https://makeovermonday.co.uk/) | Tableau 
 Year | Challenge | Prompt | My solution                     
 --- |--- | --- | ---        
 2024 | #MOM2024 - Week 52 | [How does our spending change in December?](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas) | [My Attempt](https://public.tableau.com/app/profile/developer6806/viz/christmas_spending_17353298173970/Dashboard-Makeover)
 2025 | #MOM2025 - Week 1 | [Historical prices of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage) | [TODO]
+
+========================================
+## Power BI
+## [Workout Wednesday |  #WOW](https://www.thetableaustudentguide.com/vizbasics) | Power BI              
+Year | Challenge | Task Prompt | My solution                     
+--- | --- | --- | ---                             
+2025 | #WOW2025 - Week 1 | [Power BI: Ice Thickness Infographic with Core Visuals](https://workout-wednesday.com/pbi-2025-w02/)  | [TODO]
