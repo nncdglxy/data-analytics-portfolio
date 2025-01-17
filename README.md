@@ -12,7 +12,7 @@ Year | Challenge | Prompt | My Work | Solution Notes
 2022 | #B2VB2022 -  Week 3 | [Build Your Best Text Table](https://data.world/back2vizbasics/2022week-3-build-your-best-text-table) | [TODO]
 2022 | #B2VB2022 -  Week 4 |[Design Some KPIs](https://data.world/back2vizbasics/2022week-4-design-some-kpis) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week4-Design-Some-KPIs-Basic/B2VB-2022-Week4-Design-KPIs-Trial?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 2022 | #B2VB2022 -  Week 5 | [Use Color Purposefully](https://data.world/back2vizbasics/2022week-5-use-color-purposefully) | [My Solution](https://public.tableau.com/views/B2VB-2022-Week5-UseColorsPurposefully/B2VB-2022-Week5?:language=en-US&:sid=&:display_count=n&:origin=viz_share_link) 
-2025 | #B2VB2025 - Week 1 |[Build a Bar Chart](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)| [My Solution](https://public.tableau.com/views/B2VB2025Week1BuildaBarChart/B2VB2025Week1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [TODO]
+2025 | #B2VB2025 - Week 1 |[Build a Bar Chart](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)| [My Solution](https://public.tableau.com/app/profile/nnigudkar/viz/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2) | [TODO]
 
 ## [Workout Wednesday | #WOW](https://workout-wednesday.com/) | Tableau     
 Year | Challenge | Prompt | My Work | Solution Notes                   
