@@ -19,7 +19,7 @@ Data fields are:
 [AP NORC New Year's Resolution Data](https://apnorc.org/projects/republicans-are-expecting-2025-will-result-in-an-improvement-in-their-own-lives-and-for-the-country/?doing_wp_cron=1736774600.7326130867004394531250)
 
 ### My Solution:
-[Tableau Link](https://haproxy-traffic-splitter/views/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Tableau Link](https://public.tableau.com/app/profile/nnigudkar/viz/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2)
 
 ### Key Learnings:
 - Label placement
