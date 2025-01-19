@@ -30,4 +30,5 @@ Week 1 | [Historical prices of computer memory and storage](https://ourworldinda
 ### Year 2025
 Challenge | Prompt | My Work | Solution Notes                   
 --- | --- | --- | --- |                                  
-Week 1 | [Power BI: Ice Thickness Infographic with Core Visuals](https://workout-wednesday.com/pbi-2025-w02/)  |
+Week 2 | [Power BI: Ice Thickness Infographic with Core Visuals](https://workout-wednesday.com/pbi-2025-w02/)  |
+Week 3 | [Power bI: Can you build a Voronoi](https://workout-wednesday.com/2024-week-52-power-bi-can-you-build-a-voronoi/)
