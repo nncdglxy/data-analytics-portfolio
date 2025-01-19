@@ -17,7 +17,7 @@ Week 5 | [Use Color Purposefully](https://data.world/back2vizbasics/2022week-5-u
 ### Year 2025
 Challenge | Prompt | My Work | Solution Notes                   
 --- | --- | --- | --- |  
-Week 1 |[Build a Bar Chart](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)| [Solution Link](https://public.tableau.com/app/profile/nnigudkar/viz/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2) |
+Week 1 |[Build a Bar Chart](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)| [Solution Link](https://public.tableau.com/app/profile/nnigudkar/viz/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2) | [Notes](Tableau/Back-To-Viz-Basics/2025/Week 1/Build a Bar Chart.md)
 
 ## [Workout Wednesday | #WOW](https://workout-wednesday.com/) | Tableau 
 ### Year 2025
