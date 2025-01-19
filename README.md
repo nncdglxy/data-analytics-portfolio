@@ -19,10 +19,9 @@ Week 2 | [Visualizing Ranges](https://workout-wednesday.com/2025w2tab/) | [Solut
 Week 3 | [How are EPL Football Teams performing this season compared to previous seasons?](https://workout-wednesday.com/2025w03tab/) | 
         
 ## [Makeover Monday | #MOM](https://makeovermonday.co.uk/) | Tableau 
-### Year 2024
+### Year 5
 Challenge | Prompt | My Work | Solution Notes                   
 --- | --- | --- | --- |
-Week 52 | [How does our spending change in December?](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas) | [My Attempt](https://public.tableau.com/app/profile/developer6806/viz/christmas_spending_17353298173970/Dashboard-Makeover)
 Week 1 | [Historical prices of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage) | 
 
 ============================================================================
