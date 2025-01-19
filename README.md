@@ -17,12 +17,6 @@ Challenge | Prompt | My Work | Solution Notes
 Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) |
 Week 2 | [Visualizing Ranges](https://workout-wednesday.com/2025w2tab/) | [Solution Link](https://public.tableau.com/views/WOW2025Week2-VisualizingRanges_17368406640380/WOW2025Week2VisualizingRanges?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
 Week 3 | [How are EPL Football Teams performing this season compared to previous seasons?](https://workout-wednesday.com/2025w03tab/) | 
-### Year 2024
-Challenge | Prompt | My Work | Solution Notes                   
---- | --- | --- | --- |  
-Week 51 | [Filter for One Value OR All Others](https://workout-wednesday.com/2024w51tab/) | [Solution Link](https://public.tableau.com/shared/93YXPDWZS?:display_count=n&:origin=viz_share_link)     
-Week 52 | [Can you create a Stem and Leaf Plots?](https://workout-wednesday.com/2024w52tab/) | [My Solution](https://public.tableau.com/views/WOW2024-Week52-CreateStemAnd-Leaf-Plot/StemandLeafDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
         
 ## [Makeover Monday | #MOM](https://makeovermonday.co.uk/) | Tableau 
 ### Year 2024
