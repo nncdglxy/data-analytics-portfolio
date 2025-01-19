@@ -1,12 +1,12 @@
 # [Build a Bar Chart | #B2VB 2025 | Week 1](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)
 
-## Prompt
+## Challenge
 Visualize New Year’s resolutions data provided by AP NORC using Bar Charts. 
 The data looks at the percentage of adults who plan to make at least one resolution, focusing on areas like health, finances, and personal habits.
 Data fields are:
 - Resolution Category: The focus area of the resolution (e.g., eating healthier, exercise).
 - Percentage: The percentage of adults planning to make a resolution in each category.
-###### Challenge By:@backtovizbasics
+###### Challenge By: @backtovizbasics
 
 ## Requirements:
 - Consider using color effectively and purposefully in your chart.
