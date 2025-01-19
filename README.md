@@ -8,17 +8,26 @@ Challenge | Prompt | My Work | Solution Notes
 --- | --- | --- | --- |  
 Week 1 |[Build a Bar Chart](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)| [Solution Link](https://public.tableau.com/app/profile/nnigudkar/viz/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2) | [Notes](Tableau/Back-To-Viz-Basics/2025/Week%201/Build%20a%20Bar%20Chart.md)
 
+#### Previous Years
+[2022](Tableau/Back-To-Viz-Basics/2022/2022-Challenges.md)
+
 ## [Workout Wednesday | #WOW 2025 | Tableau](https://workout-wednesday.com/)
 Challenge | Prompt | My Work | Solution Notes                   
 --- | --- | --- | --- |  
 Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) |
 Week 2 | [Visualizing Ranges](https://workout-wednesday.com/2025w2tab/) | [Solution Link](https://public.tableau.com/views/WOW2025Week2-VisualizingRanges_17368406640380/WOW2025Week2VisualizingRanges?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | 
 Week 3 | [How are EPL Football Teams performing this season compared to previous seasons?](https://workout-wednesday.com/2025w03tab/) | 
+
+#### Previous Years
+[2024](Tableau/Workout-Wednesday/2024/2024-Challenges.md)
         
 ## [Makeover Monday | #MOM 2025 | Tableau](https://makeovermonday.co.uk/)  
 Challenge | Prompt | My Work | Solution Notes                   
 --- | --- | --- | --- |
 Week 1 | [Historical prices of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage) | 
+
+#### Previous Years
+[2024](Tableau/Makeover-Monday/2024/2024-Challenges.md)
 
 ============================================================================
 ## <img src="https://github.com/user-attachments/assets/cc270570-5a51-438d-b1ad-5fb1cb6afc94" width="75" />
