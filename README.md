@@ -40,7 +40,7 @@ Challenge | Prompt | My Work | Solution Notes
 Week 52 | [How does our spending change in December?](https://www.bankofengland.co.uk/explainers/how-much-do-we-spend-at-christmas) | [My Attempt](https://public.tableau.com/app/profile/developer6806/viz/christmas_spending_17353298173970/Dashboard-Makeover)
 Week 1 | [Historical prices of computer memory and storage](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage) | 
 
-================================================================================
+============================================================================
 ## <img src="https://github.com/user-attachments/assets/cc270570-5a51-438d-b1ad-5fb1cb6afc94" width="75" />
 ## [Workout Wednesday |  #WOW](https://www.thetableaustudentguide.com/vizbasics) | Power BI              
 ### Year 2025
