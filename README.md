@@ -16,7 +16,7 @@ Challenge | Prompt | My Work | Solution Notes
 --- | --- | --- | --- |  
 Week 1 | [Can you replicate Quick Table Calcs?](https://workout-wednesday.com/2025w1tab/) | 
 Week 2 | [Visualizing Ranges](https://workout-wednesday.com/2025w2tab/) | [Solution Link](https://public.tableau.com/views/WOW2025Week2-VisualizingRanges_17368406640380/WOW2025Week2VisualizingRanges?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) | [Notes]
-Week 3 | [How are EPL Football Teams performing this season compared to previous seasons?](https://workout-wednesday.com/2025w03tab/) | [Solution Link](WOW2025Week3ComparisonofTeamPerformanceCYvsPY) |[Notes]
+Week 3 | [How are EPL Football Teams performing this season compared to previous seasons?](https://workout-wednesday.com/2025w03tab/) | [Solution Link](WOW2025Week3ComparisonofTeamPerformanceCYvsPY) |[Notes](Tableau/Workout-Wednesday/2025/Week%203/How%20are%20EPL%20Football%20Teams%20performing%20this%20season%20compared%20to%20previous%20seasons?.md)
 
 #### Previous Years
 [2024](Tableau/Workout-Wednesday/2024/2024-Challenges.md)
