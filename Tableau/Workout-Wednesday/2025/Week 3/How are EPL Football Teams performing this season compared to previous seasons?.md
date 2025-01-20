@@ -14,41 +14,17 @@ Dashboard 1000 x 800
 This challenge uses a custom dataset originally sourced from kaggle.com.
 
 ### My Solution:
-[Tableau Link]
+[Tableau Link](https://public.tableau.com/app/profile/nnigudkar/viz/WOW2025Week3CompareTeamPerformancePYvsCY/WOW2025Week3ComparisonofTeamPerformanceCYvsPY)
 ### Beginner Level -
-
-#### Prompt: 
--
--
--
--
 #### Key Learnings:
--
--
--
--
+- Pivot the data
+- Table calcs - running totals
+- customizing filter to not show 'All'
 ### Intermediate Level -
-#### Prompt: 
--
--
--
--
-#### Key Learnings:
--
--
--
--
+#### Key Learnings: 
+- Calculated fields
+- Dual axis 
+- Labeling and formatting
 
-### Advanced -
-#### Prompt: 
--
--
--
--
-#### Key Learnings:
--
--
--
--
 
 
