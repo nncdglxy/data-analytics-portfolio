@@ -7,6 +7,7 @@
 Challenge | Prompt | My Work | Solution Notes                   
 --- | --- | --- | --- |  
 Week 1 |[Build a Bar Chart](https://data.world/back2vizbasics/2025week-1-build-a-bar-chart)| [Solution Link](https://public.tableau.com/app/profile/nnigudkar/viz/B2VB2025Week1BuildaBarChartV2/B2VB2025Week2-BuildaBarChart-V2) | [Notes](Tableau/Back-To-Viz-Basics/2025/Week%201/Build%20a%20Bar%20Chart.md)
+Week 2 | [Build a Multi Line Chart](https://data.world/back2vizbasics/2025week-2-build-a-multiple-line-chart) | [Solution Link] | [Notes]
 
 #### Previous Years
 [2022](Tableau/Back-To-Viz-Basics/2022/2022-Challenges.md)
