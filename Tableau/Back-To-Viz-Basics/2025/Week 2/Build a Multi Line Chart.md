@@ -27,3 +27,5 @@ Our data fields are:
 [Tableau Link](URL)
 
 #### Key Learnings:
+* Using Set Action as Filters
+* Using Icons
