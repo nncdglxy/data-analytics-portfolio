@@ -24,7 +24,7 @@ Our data fields are:
 [Dataset Link](URL)
 
 ### My Solution:
-[Tableau Link](URL)
+[Tableau Link](https://public.tableau.com/views/B2VB2025Week2-BuildaMulti-LineChart/B2VB2025Week2-BuildaMultilineChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Key Learnings:
 * Using Set Action as Filters
