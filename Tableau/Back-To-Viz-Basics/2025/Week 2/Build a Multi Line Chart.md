@@ -33,5 +33,5 @@ Our data fields are:
 * In calculated fields, original values are used, aliases cannot be used.
 
 #### Key Challenges:
-* Could not get the lables to not overlap with data points are too close.
+* Could not get the labels to not overlap with data points are too close.
 * Filter action icon worked funky
