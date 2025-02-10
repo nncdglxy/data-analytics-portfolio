@@ -27,5 +27,11 @@ Our data fields are:
 [Tableau Link](https://public.tableau.com/views/B2VB2025Week2-BuildaMulti-LineChart/B2VB2025Week2-BuildaMultilineChart?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 #### Key Learnings:
-* Using Set Action as Filters
+* Using Set Action as Filters on Dashboard
 * Using Icons
+* Use mark colors for data labels
+* In calculated fields, original values are used, aliases cannot be used.
+
+#### Key Challenges:
+* Could not get the lables to not overlap with data points are too close.
+* Filter action icon worked funky
