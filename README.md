@@ -40,3 +40,8 @@ Challenge | Prompt | My Work | Solution Notes
 Week 1 | No Challenge
 Week 2 | [Ice Thickness Infographic with Core Visuals](https://workout-wednesday.com/pbi-2025-w02/)  |
 Week 3 | [Can you build a Voronoi?](https://workout-wednesday.com/2024-week-52-power-bi-can-you-build-a-voronoi/)
+
+## [Next Level Tableau | #30 Day Challenge | Andy Kriebel][(https://www.thetableaustudentguide.com/vizbasics)](https://nextleveltableau.notion.site/accelerator) 
+Day | Goal | My Work                  
+--- | --- | --- |
+Day 1 &2 | Orientation and Basics | [Basic Dashboard](https://ourworldindata.org/grapher/historical-cost-of-computer-memory-and-storage) | 
